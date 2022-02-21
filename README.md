@@ -1,0 +1,1 @@
+# acm-all-managed-cluster-config
