@@ -1,0 +1,7 @@
+{
+  "env": "Environment",
+  "cluster": {
+    "name": "Desired_name",
+    "address": "K8s_API"
+  }
+}
