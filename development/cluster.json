@@ -1,9 +1,0 @@
-{
-  "environment": "development",
-  "cloud": "aws",
-  "region": "eu-central-1",
-  "cluster": {
-    "name": "eu-managed01",
-    "address": "https://api.eu-managed01.sandbox135.opentlc.com:6443"
-  }
-}
