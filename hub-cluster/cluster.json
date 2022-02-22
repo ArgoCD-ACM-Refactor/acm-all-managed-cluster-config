@@ -1,0 +1,9 @@
+{
+  "environment": "acm",
+  "cloud": "aws",
+  "region": "us-east-2",
+  "cluster": {
+    "name": "local-cluster",
+    "address": "https://kubernetes.default.svc"
+  }
+}
